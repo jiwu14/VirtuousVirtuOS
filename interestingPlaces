@@ -1,0 +1,11 @@
+uclibc_r101.patch
+   5837  __syscall_ioctl
+   3600 lots of defines
+   8328 sclib_syscall.c
+   8007 sclib_memory.c
+   4067 sclib_mem(...)
+   8250 sclib_memory_alloc(...)
+   8154 memory_init(...)
+   3919 sclib_data_t and other structdefs
+   7114 sclib.c (has global data)
+   7892 sclib_file.c
