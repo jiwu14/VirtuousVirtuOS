@@ -9,3 +9,9 @@ uclibc_r101.patch
    3919 sclib_data_t and other structdefs
    7114 sclib.c (has global data)
    7892 sclib_file.c
+
+linux_r101.patch
+   1471 rqueue_page (page for the response queue?)
+   1482 _syscall_defs.h
+   1540 _syscall.h
+   1787 _syscall_queue.h
